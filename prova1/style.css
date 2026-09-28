@@ -1,0 +1,53 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+    background-color: #fff0f5;
+}
+
+header {
+    background-color: #d96b8a;
+    color: white;
+    padding: 30px;
+}
+
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    padding: 30px;
+}
+
+h2 {
+    color: #d96b8a;
+}
+
+.produto {
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #d96b8a;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
